@@ -17,6 +17,9 @@
 <h2>📝 Autor do projeto </h2>
 https://www.linkedin.com/in/paulofreitasdn/
 
+<h2>📋 Modelo front end do projeto</h2>
+https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med?type=design&node-id=12-426&mode=design&t=RIgvuJEb3YMPjo8O-0
+
 
 
 
