@@ -46,7 +46,7 @@ public class Paciente {
             this.telefone = dados.telefone();
         }
         if (dados.endereco() != null){
-            this.telefone = dados.telefone();
+            this.endereco.atualizarInformacoes(dados.endereco());
         }
     }
 
@@ -72,6 +72,10 @@ public class Paciente {
 
     public Long getId() {
         return id;
+    }
+
+    public Endereco getEndereco() {
+        return endereco;
     }
 }
 

@@ -68,6 +68,14 @@ public class Medico {
         return crm;
     }
 
+    public String getTelefone() {
+        return telefone;
+    }
+
+    public Endereco getEndereco() {
+        return endereco;
+    }
+
     public Especialidade getEspecialidade() {
         return especialidade;
     }
